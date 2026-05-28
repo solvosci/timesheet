@@ -7,7 +7,7 @@ After installing the module, follow these steps:
 1. Go to Time Off (hr_holidays)
 2. Navigate to Configuration → Time Off Types
 3. Select the desired Time Off Type
-4. Make sure the option “Generate Timesheets” (timesheet_generate) is enabled (This configuration menu is only visible if timesheet generation is enabled).
+4. Make sure “Count as” (time_type) is not set to “Worked Time” (This configuration menu is only visible for absences, since timesheets are not generated otherwise).
 5. Configure the Timesheet Restriction Level
 
 Timesheet Restriction Levels
